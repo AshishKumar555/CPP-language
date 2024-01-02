@@ -9,7 +9,7 @@ int main()
     primeNumber(n);
     return 0;
 }
-void prime(int x)
+void primeNumber(int x)
 {
     int i;
     for(i=2;i<x;i++)
