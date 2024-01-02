@@ -1,12 +1,12 @@
 #include<iostream>
 using namespace std;
-void prime(int x);
+void primeNumber(int x);
 int main()
 {
     int n;
     cout<<"Enter the any number"<<endl;
     cin>>n;
-    prime(n);
+    primeNumber(n);
     return 0;
 }
 void prime(int x)
