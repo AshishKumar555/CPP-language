@@ -9,3 +9,7 @@ int main()
     cout<<"The value of z is ==> "<<z;
     return 0;
 }
+//-----using function------------------
+int sum(int a,int b,int c){
+    cout<<"The result is "<<a+b+c;
+}
