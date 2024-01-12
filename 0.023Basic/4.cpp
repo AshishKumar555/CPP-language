@@ -2,10 +2,10 @@
 using namespace std;
 int main()
 {
-    int area,r;
+    int area,radius;
     cout<<"Enter the radious"<<endl;
-    cin>>r;
-    area=3.14*r*r;
+    cin>>radius;
+    area=3.14*radius*radius;
     cout<<"The area of circle is ==>"<<area;
     return 0;
 }
